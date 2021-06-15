@@ -41,7 +41,7 @@ class SecondWayFragment : Fragment() {
     }
 
     companion object {
-        fun newInstance(): SecondWayFragment = SecondWayFragment()
+        fun newInstance(): SecondWayFragment = SecondWayFragment()//created second fragment
     }
 
 }
